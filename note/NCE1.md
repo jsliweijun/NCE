@@ -42,7 +42,7 @@ it,this,that : 代词
 一般疑问句:使用助动词(do,does),或者使用 be 动词(am,is,are,was,were)开头来构成疑问句.
 特殊疑问句:使用疑问词开头询问的(what,how,why,where,which,whose,who,whom,whichever,when)
 
-### 句型训练:练习一般疑问句和肯定回答
+### Practice:练习一般疑问句和肯定回答
 
 分别用不同代词 it ,this,that
 
